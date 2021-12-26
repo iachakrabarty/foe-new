@@ -1,0 +1,32 @@
+[
+    {
+        "eventType":"env",
+        "eventTitle":"International Day of Education",
+        "eventDay":"",
+        "eventDate":"24",
+        "eventMonth":"JAN",
+        "eventLoc":"",
+        "eventTime":"",
+        "eventDesc":"Education gives us knowledge of the world around us and changes it into something better.  Its aim is to highlight the importance of literacy to individuals, communities and societies."
+    },
+    {
+        "eventType":"env",
+        "eventTitle":"World Wetland Day",
+        "eventDay":"",
+        "eventDate":"2",
+        "eventMonth":"FEB",
+        "eventLoc":"",
+        "eventTime":"",
+        "eventDesc":"Students may be called for discussion on What is wetlands, Importance of wetland, Ramsar Convention, Managing wetlands and Biodiversity in wetland."
+    },
+    {
+        "eventType":"env",
+        "eventTitle":"National Science Day",
+        "eventDay":"",
+        "eventDate":"28",
+        "eventMonth":"FEB",
+        "eventLoc":"",
+        "eventTime":"",
+        "eventDesc":"It is necessary to highlight the role of science in the protection of the environment. This day should be taken as a platform to put forward the message."
+    }
+]
