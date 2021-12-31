@@ -1,0 +1,44 @@
+[
+    {
+        "title":"Sundarban and Climate Change",
+        "imgPath": "assets/publications/sundarbans.jpg",
+        "category":"Magazine",
+        "publishedBy": "Friends of Environment Publication house",
+        "publishedOn": "",
+        "volume": "Volume: 1, Issue 1",
+        "editors": "Mr. Apurba Koley, Ms. Ananya Chatterjee, Md. Arif, Md. Titas Parves",
+        "editorialAdv": "Dr. Baniprasad Sen, Dr. Debdut Ghosh Thakur, Dr. Deep Chakraborty",
+        "coverBy": "Karukarjo",
+        "coverPage": "",
+        "contentLink": "",
+        "design": "Karukarjo"
+    },
+    {
+        "title":"One Day National e-Conference on ‘Environment and Climate Change’",
+        "imgPath": "assets/publications/abstract.jpg",
+        "category":"Abstract Book",
+        "publishedBy": "Friends of Environment",
+        "publishedOn": "",
+        "volume": "",
+        "editors": "Mr. Apurba Koley & Mr. Anudeb Ghosh",
+        "editorialAdv": "",
+        "coverBy": "",
+        "coverPage": "",
+        "contentLink": "",
+        "design": ""
+    },
+    {
+        "title":"A Tale of Pandemic",
+        "imgPath": "assets/publications/covid19.jpg",
+        "category":"e-Magazine",
+        "publishedBy": "Environmental Diary, Friends of Environment",
+        "publishedOn": "",
+        "volume": "",
+        "editors": "Dr. Deep Chakraborty, Mr. Apurba Koley, Ms. Debolina Banerjee, Mr. Richik Ghosh Thakur, Mr. Aman Basu, Mr. Chinmoy Pal",
+        "editorialAdv": "",
+        "coverBy": "Ms. Aritri Sarkar",
+        "coverPage": "",
+        "contentLink": "",
+        "design": "Karukarjo"
+    }
+]
