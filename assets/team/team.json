@@ -3,56 +3,56 @@
         "name": "Dr. Deep Chakraborty",
         "email": "deepckbty.foe@gmail.com",
         "post": "Co-Founder & President",
-        "imgPath": "",
+        "imgPath": "assets/team/deep.jpg",
         "about": "Postdoctoral Research Associate, Explorer, Free from bound, Grazing in society"
     },
     {
         "name": "Mr. Richik Ghosh Thakur",
         "email": "richik.foe@gmail.com",
         "post": "Vice President",
-        "imgPath": "",
+        "imgPath": "assets/team/richik.jpg",
         "about": "Need based Innovator, Thinker, Music Enthusiast, Electronics Fanatic, Algorithm Guru"
     },
     {
         "name": "Mr. Apurba Koley",
         "email": "apurba.foe@gmail.com",
         "post": "Founder & Secretary",
-        "imgPath": "",
+        "imgPath": "assets/team/apurba.jpg",
         "about": "Environmentalist, Research Scholar, Passionate, Dreamer, Naturalists"
     },
     {
         "name": "Mr. Chinmoy Pal",
         "email": "chinmoypal.foe@gmail.com",
         "post": "Joint Secretary (Accounts and Finance)",
-        "imgPath": "",
+        "imgPath": "assets/team/chinmoy.jpg",
         "about": "Environment Science Student, Environmentalist, Writer, Novelist, Lyricist"
     },
     {
         "name": "Mr. Anudeb Ghosh",
         "email": "anudevghosh.foe@gmail.com",
         "post": "Joint Secretary (Resource Development/ Project )",
-        "imgPath": "",
+        "imgPath": "assets/team/anudeb.jpg",
         "about": "Environmentalist, Naturalists, Micro-Level Implementator, Policy & Decision Maker"
     },
     {
         "name": "Dr. Mousumi Pal",
         "email": "mousumipal.foe@gmail.com",
         "post": "Treasurer (Accounts)",
-        "imgPath": "",
+        "imgPath": "assets/team/mousumi.jpg",
         "about": "Environmental Science Writer, Dendrophile, Researcher"
     },
     {
         "name": "Miss Ananya Chatterjee",
         "email": "ananya.foe@gmail.com",
         "post": "Treasurer (Finance)",
-        "imgPath": "",
+        "imgPath": "assets/team/ananya.jpg",
         "about": "Fond of Clean and Green Environment, Artist, Innovator, Explorer"
     },
     {
         "name": "Mr. Surajit Karmakar",
         "email": "surajit.foe@gmail.com",
         "post": "Convener",
-        "imgPath": "",
+        "imgPath": "assets/team/surajit.jpg",
         "about": "Environmental Science Student, Dendrophile, Ornithophile, Cynophilist, #FishLover"
     },
     {
@@ -66,7 +66,7 @@
         "name": "Miss. Sudeshna Sarkar",
         "email": "sudeshna.ediary@gmail.com",
         "post": "Asst. Cultural Secretary",
-        "imgPath": "",
+        "imgPath": "assets/team/sudeshna.jpg",
         "about": "The Student of Environmental Science. Naturalists, Writter, Explorer"
     }
 ]
