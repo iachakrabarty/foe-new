@@ -9,8 +9,8 @@
         "editors": "Mr. Apurba Koley, Ms. Ananya Chatterjee, Md. Arif, Md. Titas Parves",
         "editorialAdv": "Dr. Baniprasad Sen, Dr. Debdut Ghosh Thakur, Dr. Deep Chakraborty",
         "coverBy": "Karukarjo",
-        "coverPage": "",
-        "contentLink": "",
+        "coverPage": "assets/publications/sundarban-cover-pages.jpg",
+        "contentLink": "assets/publications/sundarban climate change magazine1-8.pdf",
         "design": "Karukarjo"
     },
     {
@@ -37,8 +37,8 @@
         "editors": "Dr. Deep Chakraborty, Mr. Apurba Koley, Ms. Debolina Banerjee, Mr. Richik Ghosh Thakur, Mr. Aman Basu, Mr. Chinmoy Pal",
         "editorialAdv": "",
         "coverBy": "Ms. Aritri Sarkar",
-        "coverPage": "",
-        "contentLink": "",
+        "coverPage": "assets/publications/covid-cover-page.jpg",
+        "contentLink": "assets/publications/covid magazine.pdf",
         "design": "Karukarjo"
     }
 ]
